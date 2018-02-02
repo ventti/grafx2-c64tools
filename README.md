@@ -1,5 +1,5 @@
 # grafx2-c64tools
-C64 plugins for GrafX2 by Vent/TRIAD
+C64 plugins for GrafX2 by Vent
 
 These LUA scripts are written to be used with [GrafX2 2.4](http://pulkomandy.tk/projects/GrafX2/) as 'Brush Factory' plugins.
 
@@ -7,7 +7,7 @@ GrafX2 is a drawing tool created by Sunset Designs.
 
 ## Installation
 1. Locate your GrafX2 share directory (usually 'share/grafx2' under your GrafX2 installation directory).
-2. In that directory, ```git clone https://github.com/vent3AD/grafx2-c64tools.git```.
+2. In that directory, ```git clone https://github.com/ventti/grafx2-c64tools.git```.
 3. Start GrafX2. Select 'Brush Effects/Factory' with right-mouse-button.
 4. Follow the installation guide under each script.
 
