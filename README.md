@@ -49,6 +49,7 @@ Adjustable parameters:
 * Save preferences to a metafile 'your_picture_name.ext_config.ini' in the picture folder.
 
 Block size and colours are initially guessed by picture dimensions as follows:
+
 | Mode                      | X dimension | Y dimension | Default block size | Number of colors | Common background color |
 | ------------------------- |:-----------:|:-----------:|:------------------:|:----------------:|:-----------------------:|
 | Hires		                | 320         | 200         | 8x8                | 2                | No                      |
